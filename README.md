@@ -18,7 +18,7 @@ You can find my portfolio, GitHub, LinkedIn, and other profiles here.
 
 ## 🖼️ Preview
 
-![Link Tree Preview](public/og-image.jpg)
+![Link Tree Preview](src/assets/og-image.jpg)
 
 ---
 
