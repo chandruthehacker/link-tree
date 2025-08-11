@@ -35,12 +35,12 @@ const Index = () => {
 
   const links = [
     { title: 'Portfolio', url: 'http://chandruthehacker.github.io/', icon: Link, color: 'from-purple-500 to-pink-500', description: 'Visit my portfolio' },
-    { title: 'Resume', url: 'https://drive.google.com/file/d/196OdIh1lw6hbcEAXE_4krVPaAUl2J75B/view?usp=sharing', icon: FileDown, color: 'from-blue-500 to-cyan-500', description: 'Download PDF'},
+    { title: 'Resume', url: 'https://drive.google.com/file/d/1uvc_fGkEsu40CfaoMggKwQcCT0Ar4rPX/view', icon: FileDown, color: 'from-blue-500 to-cyan-500', description: 'Download PDF'},
     { title: 'LinkedIn', url: 'http://linkedin.com/in/chandruthehacker', icon: Linkedin, color: 'from-blue-600 to-blue-800', description: 'Professional network' },
     { title: 'Email', url: 'https://mailto:cyberchandru87@gmail.com', icon: Mail, color: 'from-indigo-500 to-purple-500', description: 'Get in touch' },
     { title: 'GitHub', url: 'https://github.com/chandruthehacker', icon: Github, color: 'from-gray-700 to-gray-900', description: 'Code repositories' },
     { title: 'Twitter / X', url: 'https://x.com/cyberchandru', icon: Twitter, color: 'from-sky-400 to-sky-600', description: 'Latest updates' },
-    { title: 'Instagram', url: 'https://instagram.com/dgl_chandru', icon: Instagram, color: 'from-pink-500 to-rose-500', description: 'Photos & stories' },
+    { title: 'Instagram', url: 'https://instagram.com/cyberchandru', icon: Instagram, color: 'from-pink-500 to-rose-500', description: 'Photos & stories' },
     { title: 'WhatsApp', url: 'https://wa.me/+919786475035', icon: MessageCircle, color: 'from-green-500 to-emerald-500', description: 'Quick chat' },
     { title: 'Telegram', url: 'https://t.me/chandruthehacker', icon: Send, color: 'from-sky-500 to-blue-500', description: 'Secure messaging' },
     // { title: 'Certifications', url: '#certifications', icon: GraduationCap, color: 'from-emerald-500 to-teal-500', description: 'My achievements' },
