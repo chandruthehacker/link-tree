@@ -5,8 +5,11 @@ You can find my portfolio, GitHub, LinkedIn, and other profiles here.
 
 ## 🔗 Live Preview
 
-👉 [Click to Visit](https://chandruthehacker.github.io/link-tree)
+## 👉 [Click to Visit](https://chandruthehacker.github.io/link-tree)
 
+## 🖼️ Preview
+
+![Link Tree Preview](src/assets/og-image.jpg)
 ## 📎 Links Included
 
 - 🌐 Portfolio  
@@ -16,9 +19,7 @@ You can find my portfolio, GitHub, LinkedIn, and other profiles here.
 - 📧 Contact / Email  
 - 🔗 And more...
 
-## 🖼️ Preview
 
-![Link Tree Preview](src/assets/og-image.jpg)
 
 ---
 
