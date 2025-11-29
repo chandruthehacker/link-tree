@@ -34,7 +34,7 @@ const Index = () => {
   }, [isDark]);
 
   const links = [
-    { title: 'Portfolio', url: 'http://chandruthehacker.github.io/', icon: Link, color: 'from-purple-500 to-pink-500', description: 'Visit my portfolio' },
+    { title: 'Portfolio', url: 'http://www.chandru.me/', icon: Link, color: 'from-purple-500 to-pink-500', description: 'Visit my portfolio' },
     { title: 'Resume', url: 'https://drive.google.com/file/d/1uvc_fGkEsu40CfaoMggKwQcCT0Ar4rPX/view', icon: FileDown, color: 'from-blue-500 to-cyan-500', description: 'Download PDF'},
     { title: 'LinkedIn', url: 'http://linkedin.com/in/chandruthehacker', icon: Linkedin, color: 'from-blue-600 to-blue-800', description: 'Professional network' },
     { title: 'Email', url: 'https://mailto:cyberchandru87@gmail.com', icon: Mail, color: 'from-indigo-500 to-purple-500', description: 'Get in touch' },
