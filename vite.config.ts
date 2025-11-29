@@ -11,10 +11,15 @@ export default defineConfig(({ mode }) => ({
   },
   plugins: [
     react(),
-    mode === 'development' &&
-    componentTagger(),
+    mode === "development" && componentTagger(),
   ].filter(Boolean),
-  base: '/link-tree/',
+
+  // ❌ OLD (for GitHub Pages project URL)
+  // base: "/link-tree/",
+
+  // ✅ NEW (for Vercel + custom domain)
+  base: "/",
+
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
