@@ -13,7 +13,9 @@ export default defineConfig(({ mode }) => ({
     mode === "development" && componentTagger(),
   ].filter(Boolean),
 
-  // 👇 base changes depending on mode
+  // 👇 KEY PART:
+  // - When we build for GitHub Pages: mode = "github" → base = "/link-tree/"
+  // - For everything else (dev, Vercel, etc.): base = "/"
   base: mode === "github" ? "/link-tree/" : "/",
 
   resolve: {
